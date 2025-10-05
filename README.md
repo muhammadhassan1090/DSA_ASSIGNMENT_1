@@ -2,7 +2,7 @@
 
 **Student Name:** M. Hassan  
 **Qalam ID:** 503423  
-**Course:** BSDS-2, Fall 2025
+**Class:** BSDS-2A
 
 ---
 
